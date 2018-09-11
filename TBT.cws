@@ -1,0 +1,91 @@
+[Workspace Header]
+Version = 600
+Pathname = "/c/Users/USER/Desktop/Tubitak Proje/TBT.cws"
+CVI Dir = "/c/program files (x86)/national instruments/measurementstudio/cvi"
+VXIplug&play Framework Dir = "/C/VXIpnp/winnt"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "TBT.prj"
+Drag Bar Left = 135
+Window Top = 157
+Window Left = 341
+Window Bottom = 459
+Window Right = 880
+Max Number Of Errors = 10
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win For Warnings = True
+Show Build Dialog = False
+Save Changes Before Running = "Always"
+Hide Windows = False
+Global Hot Key = False
+Break At First Statement = False
+
+[Project Header 0001]
+Version = 600
+Platform Code = 4
+Sort Type = "No Sort"
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[File 0001]
+Path = "/c/Users/USER/Desktop/Tubitak Proje/TBT.h"
+File Type = "Include"
+Disk Date = 3619081396
+In Projects = "1,"
+Project Window Indexes = "1,"
+Window Top = 212
+Window Left = 106
+Source Window State = "1,25,25,25,9,25,25,0,0,80,0,0,0,0,0,25,6,0,27,13,"
+
+[File 0002]
+Path = "/c/Users/USER/Desktop/Tubitak Proje/TBT.c"
+File Type = "CSource"
+Disk Date = 3614237192
+In Projects = "1,"
+Project Window Indexes = "2,"
+Window Top = 185
+Window Left = 195
+Source Window State = "1,129,129,129,20,25,20,0,0,80,0,1,0,1,0,25,0,0,43,18,"
+
+[File 0003]
+Path = "/c/Users/USER/Desktop/Tubitak Proje/TBT.uir"
+File Type = "User Interface Resource"
+Disk Date = 3618994080
+In Projects = "1,"
+Project Window Indexes = "3,"
+Window Top = 62
+Window Left = 26
+Window Height = 401
+Window Width = 708
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Do Not Include PRJ File in Actions = False
+Suppress CVI Error Messages = False
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+
